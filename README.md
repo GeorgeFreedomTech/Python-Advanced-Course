@@ -55,7 +55,7 @@ The lessons are provided as Jupyter Notebooks (`.ipynb`) and standard Python (`.
 
 1.  **Clone or Download:** Get a copy of this repository onto your local machine.
     ```bash
-    git clone [https://github.com/GeorgeFreedomTech/python-advanced-course.git](https://github.com/GeorgeFreedomTech/python-advanced-course.git)
+    git clone https://github.com/GeorgeFreedomTech/python-advanced-course.git
     ```
 2.  **Set Up Virtual Environment:** It is critical for advanced projects to use a dedicated virtual environment.
     ```bash

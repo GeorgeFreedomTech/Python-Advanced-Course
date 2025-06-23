@@ -26,7 +26,7 @@ This advanced curriculum is structured into modules focusing on the core tenets 
 * **Lesson 9: Static variables, constants, methods and classmethods** - Managing data and behaviors that belong to the class blueprint itself.
 * **Lesson 10: Enumerations** - Creating a fixed set of commands, states, or identifiers to prevent errors and improve code clarity.
 * **Lesson 11: Decorators** - Wrapping your functions and methods in "protocol layers" for logging, validation, or performance monitoring.
-* **Lesson 12: New Horizons & Next Steps** - How to succeed in IT world, how to navigate there and what to take into a backpack for the expedition.
+* **Lesson 12: New Horizons & Roadmaps** - How to succeed in IT world, how to navigate there and what to take into a backpack for the expedition.
     
 ## 🎯 Learning Objectives / Blueprints to Master:
 

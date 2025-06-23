@@ -41,36 +41,39 @@ Upon completing this expedition, you will be able to:
     
 ## 🎒 Prerequisites / Advanced Gear-Up:
 
-* A solid understanding of Python topics covered in the **[Python Foundations](https://github.com/GeorgeFreedomTech/python-foundations-course)** and **[Python Intermediate](https://github.com/GeorgeFreedomTech/python-intermediate-course)** courses or equivalent experience.
+* A solid understanding of Python topics covered in the **[Python Foundations Course](https://github.com/GeorgeFreedomTech/python-foundations-course)** and **[Python Intermediate Course](https://github.com/GeorgeFreedomTech/python-intermediate-course)** courses or equivalent experience.
 * This includes undestanding of data structures, loops, functions, file I/O, virtual environments, and using external libraries.
 * An interest in moving beyond simple scripting towards software design and architecture.
 
 ## 🧭 How to Use These Materials:
     
-The lessons are provided as Jupyter Notebooks (`.ipynb`) and standard Python (`.py`) files. To use them:
+The lessons are provided as Jupyter Notebook (`.ipynb`) files. To use them:
 
-0.  **Online:** For a quick look at `.ipynb` files, you can use online viewers or services like [JupyterLite](https://jupyter.org/try) by uploading the files.
+0. **Online:** Download the Jupyter files and go on: https://jupyter.org/try .. and upload&open the files there
 
 -- OR--
 
 1.  **Clone or Download:** Get a copy of this repository onto your local machine.
     ```bash
-    git clone https://github.com/GeorgeFreedomTech/python-advanced-course.git
+    git clone https://github.com/GeorgeFreedomTech/python-foundations-course.git
     ```
-2.  **Set Up Virtual Environment:** It is critical for advanced projects to use a dedicated virtual environment.
+2.  **Ensure Jupyter is Installed:** You'll need Jupyter Notebook or JupyterLab.
+    * The common way is to install the Anaconda Distribution (which includes Jupyter).
+    * Alternatively, install it via pip:
+        ```bash
+        pip install notebook
+        # or for JupyterLab
+        pip install jupyterlab
+        ```
+3.  **Launch Jupyter:** Open your terminal or command prompt, navigate to the directory where you cloned/downloaded the files, and run:
     ```bash
-    # Navigate into the project folder
-    cd python-advanced-course
-    # Create and activate the environment
-    python -m venv venv
-    # On Windows: venv\Scripts\activate
-    # On macOS/Linux: source venv/bin/activate
+    jupyter notebook
     ```
-3.  **Install Dependencies:** If a lesson requires external packages, install them into your active environment using the provided `requirements.txt` file (if applicable).
+    or for JupyterLab:
     ```bash
-    pip install -r requirements.txt
+    jupyter lab
     ```
-4.  **Launch Jupyter & Explore:** Run `jupyter notebook` or `jupyter lab` from your activated terminal and navigate to the lesson files. Each lesson includes explanations, code examples, and exercises, with corresponding "Solutions" provided.
+4.  **Explore:** Your browser should open the Jupyter interface. Navigate to the lesson files and open them to start your learning expedition! Each lesson notebook contains explanations, code examples, and exercises. A corresponding "Solutions" notebook is provided for the exercises.
 
 ## 💡 Purpose of This Repository:
 

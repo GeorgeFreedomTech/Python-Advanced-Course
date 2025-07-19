@@ -1,6 +1,6 @@
 # Python Advanced Course - Object-Oriented Design & Principles
 
-By **George Freedom Tech** (George Freedom - Tech Educator & Strategic Mentor)
+By **George Freedom**
 
 Move beyond simple scripts and learn Object-Oriented Programming (OOP) in Python. This advanced course (Lessons 1-12) dives deep into the principles of classes, inheritance, and abstraction, preparing you to architect sophisticated software solutions.
 

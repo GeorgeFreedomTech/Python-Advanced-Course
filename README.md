@@ -83,11 +83,9 @@ The lessons are provided as Jupyter Notebook (`.ipynb`) files. To use them:
     
 ## 🔗 Next Steps & Connect:
 
-Ready to architect your future in tech or need personalized strategic guidance?
-
 * Visit my website: **[https://GeorgeFreedom.com](https://GeorgeFreedom.com)**
 * Connect on LinkedIn: **[https://www.linkedin.com/in/georgefreedom/](https://www.linkedin.com/in/georgefreedom/)**
-* Book a Mentoring Session: **[https://cal.com/georgefreedom](https://cal.com/georgefreedom)**
+* Let's talk: **[https://cal.com/georgefreedom](https://cal.com/georgefreedom)**
 
 ## 📜 License:
 
@@ -98,4 +96,4 @@ This work (educational materials, including text, explanations, exercises, and a
 
 ---
 
-Architect your code like a pro and build for the future!
+Architect your code like a pro!
